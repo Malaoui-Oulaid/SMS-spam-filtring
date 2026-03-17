@@ -60,7 +60,7 @@ Plusieurs modèles ont été testés :
 
 ##  Technologies utilisées
 
-- Python 🐍
+- Python 
 - pandas
 - numpy
 - scikit-learn
